@@ -2,5 +2,4 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Web development, network security and analytics & visualization
 - 💞️ I’m looking to collaborate on Cryptography exploitations
-- 📫 How to reach me mohamad0hijazi@gmail.com
-- ⚡ Fun fact: Spiders behave familiar
+- ⚡ Fun fact: some spiders want to be eaten

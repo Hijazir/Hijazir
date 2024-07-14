@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hijazir
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Web development, network security and analytics & visualization
+- 🌱 I’m currently learning MS Power Platform
 - 💞️ I’m looking to collaborate on Cryptography exploitations
 - ⚡ Fun fact: some spiders want to be eaten
